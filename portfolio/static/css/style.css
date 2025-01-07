@@ -200,7 +200,7 @@ h4 {
 .pandas {
   width: 80%;
   height: .5rem;
-  background-color: #002958;
+  background-color: #fafafa;
   margin: 1rem 0;
   border-radius: 12px;
 }
@@ -222,7 +222,7 @@ h4 {
 }
 
 .fastapi {
-  width: 85%;
+  width: 75%;
   height: .5rem;
   background-color: #b901fc;
   margin: 1rem 0;
